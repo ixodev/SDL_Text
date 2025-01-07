@@ -2,6 +2,7 @@
 
 ## Written by Ixodev in C++. Licensed under the MIT license.
 ## Use is subject to license terms. Copyright (c) Ixodev, Virtual Republic of Code, april 2023.
+## A simple library to draw text with the SDL2 Lib (https://www.libsdl.org)
 
 
 ## Some informations about the project:
